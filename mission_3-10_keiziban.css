@@ -1,0 +1,24 @@
+input.sample1 {outline:solid 1px #66FF66;}
+input.sample2 {outline:solid 1px #FF0000;}
+input.sample3 {outline:solid 1px #0000FF;}
+input.sample4 {outline:solid 1px #00FFFF;}
+
+input.sample1-2 {
+outline:solid 1px #66FF66;
+width:350px;
+}
+
+input.sample4-2 {
+outline:solid 1px #00FFFF;
+width:350px;
+}
+
+body.sample1{
+background-color:#AEFFBD;
+}
+
+fieldset.sample1{
+background-color:#FFFFCC;
+width:500px;
+}
+
